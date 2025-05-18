@@ -45,8 +45,8 @@ Ensure you're targeting a Windows-based environment with the necessary Visual St
 ## 🔗 Links
 
 - 💻 **Live Demo / Screenshots**: *(To be added in repo or Notion)*
-- 🧑‍💻 **Freelance Services**: [Visit my Fiverr Profile](https://www.fiverr.com/yourusername)
-- 🤝 **Connect with me on LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- 🧑‍💻 **Freelance Services**: [Visit my Fiverr Profile]([https://www.fiverr.com/yourusername](https://www.fiverr.com/s/pd4zNjp))
+- 🤝 **Connect with me on LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/arshman-aslam-767463279)
 
 ---
 
@@ -56,4 +56,4 @@ I create tailored desktop systems for schools, inventory, or admin control. DM m
 
 ---
 
-**Made with 💻 in C++ | Powered by Passion**
+**Made with 💻 in C++ | Powered by ARSHMAN**
