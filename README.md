@@ -34,21 +34,11 @@ This project is a full-fledged **School Management System** built using **C++ wi
 
 ## 🏁 How to Run
 
-1. Open the project in **Visual Studio**
-2. Select `Build > Build Solution`
-3. Press `F5` to **Run the GUI Application**
+1. Open the exe file
 
 Ensure you're targeting a Windows-based environment with the necessary Visual Studio C++ workload installed.
 
----
 
-## 🔗 Links
-
-- 💻 **Live Demo / Screenshots**: *(To be added in repo or Notion)*
-- 🧑‍💻 **Freelance Services**: [Visit my Fiverr Profile]([https://www.fiverr.com/yourusername](https://www.fiverr.com/s/pd4zNjp))
-- 🤝 **Connect with me on LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/arshman-aslam-767463279)
-
----
 
 ## 📬 Want a custom C++ GUI system?
 
