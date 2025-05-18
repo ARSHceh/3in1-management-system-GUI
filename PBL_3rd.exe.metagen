@@ -1,0 +1,107 @@
+  PBL3rd.add_student.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.admin.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.attendance.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Check_Marks.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Check_Transport.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Exams_System.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.MyForm.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Option.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Provide_Transport.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Remove_Bus.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.remove_student.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Search_student.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Student_system.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.Transport_System.resources - Embedded, ContainedInManifestFile, 
+  PBL3rd.upload_marks.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PBL_3rd, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class PBL3rd.add_student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.attendance: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.upload_marks: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Check_Marks: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Exams_System: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* Exams_db : Public
+Class PBL3rd.remove_student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Search_student: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Student_system: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* student_db : Public
+Class PBL3rd.Remove_Bus: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Provide_Transport: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Check_Transport: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Transport_System: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db_ : Public
+Class PBL3rd.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.Option: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+Class PBL3rd.admin: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Database*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Database* db : Public
+  Methods:
+    login_button_Click(Object, EventArgs): PrivateScope, Public, HideBySig
